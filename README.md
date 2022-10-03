@@ -40,6 +40,10 @@ The Car-lease Platform API is a REST API that allows to maintain vehicle version
 
 ## Running the API & Project
 
+To run the project go to file: "CarLeasePlatformApplication" and hit the run button.
+or follow set up image below
+![image](image/setup.png)
+
 The API works by downloading the repository in github, and launching / running with any Java IDE
 IDE used (Intellij IDEA). The main API calls are the CRDU operation (Create-Read-Delete-Update)
 - Start/Run the project main file = 'CarLeasePlatformApplication' then you can check for the API calls by calling one of the following 
